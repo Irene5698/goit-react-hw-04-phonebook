@@ -1,0 +1,19 @@
+.titlePhonebook {
+    text-align: center;
+  }
+  
+  .titleContact {
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .componentsForm {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 30px;
+    width: 400px;
+    font-size: large;
+    border-radius: 5px;
+    border-color: black;
+  }
+  
